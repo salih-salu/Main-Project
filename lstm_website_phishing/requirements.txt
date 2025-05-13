@@ -1,5 +1,0 @@
-Flask
-tensorflow
-numpy
-pickle-mixin
-gunicorn  # Required for deploying to platforms like Heroku
